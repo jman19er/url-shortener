@@ -1,0 +1,10 @@
+{
+    "name": "url-shortener",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+      "express": "^4.18.2",
+      "aws-sdk": "^2.1400.0",
+      "amazon-dax-client": "^1.2.0"
+    }
+  }
