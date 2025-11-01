@@ -1,1 +1,8 @@
 user-data.sh
+
+# React build artifacts
+ui/build/
+ui/node_modules/
+
+# Server node_modules (optional - you may want to commit this for server deployments)
+# server/node_modules/
